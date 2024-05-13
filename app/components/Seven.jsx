@@ -8,19 +8,19 @@ const Seven = () => {
        clients normally ask me</h1>
        <h2 className='font-medium md:text-[32px] text-[22px] text-[#5D3BEE]  pt-16'>What is yoir  hourly rate?</h2>
        <div className='flex justify-between pt-5'>
-           <h1 className='font-normal md:text-[18px] text-[12px] text-[#51586A] '>Lorem ipsum dolir sit amet, consectetur adipiscing elit. In <br /> urna, non nisl tincidunt ut elementum turpis.</h1>
+           <h1 className='font-normal md:text-[18px] text-[12px] text-[#51586A] '>Lorem ipdum dolir sit amet, consectetur adipiscing elit. In <br /> urna, non nisl tincidunt ut elementum turpis.</h1>
            <ion-icon name="remove-circle-outline" size="large"></ion-icon>
        </div>
        <div className=' h-0.5 border-2 border-[#a2a0ad] my-6'></div>
         
        <div className='flex justify-between pt-5 '>
-           <h1 className='font-medium md:text-[32px] text-[18px]  '>What type of projects do yu take on?</h1>
+           <h1 className='font-medium md:text-[32px] text-[18px]  '>What type of projxcts do yu take on?</h1>
            <ion-icon name="add-circle-outline" size="large"></ion-icon>
        </div>
        <div className=' h-0.5 border-2 border-[#000000] my-6'></div>
        
        <div className='flex justify-between pt-5'>
-           <h1 className='font-medium  md:text-[32px] text-[18px]  '>How do you charge for projects ?</h1>
+           <h1 className='font-medium  md:text-[32px] text-[18px]  '>How do you chaxge for projects ?</h1>
            <ion-icon name="add-circle-outline" size="large"></ion-icon>
        </div>
        <div className=' h-0.5 border-2 border-[#8f9399] my-6'></div>
