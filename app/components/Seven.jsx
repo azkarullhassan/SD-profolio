@@ -14,7 +14,7 @@ const Seven = () => {
        <div className=' h-0.5 border-2 border-[#a2a0ad] my-6'></div>
         
        <div className='flex justify-between pt-5 '>
-           <h1 className='font-medium md:text-[32px] text-[18px]  '>What type of projects do yu take on?</h1>
+           <h1 className='font-medium md:text-[32px] text-[18px]  '>What  of projects do yu take on?</h1>
            <ion-icon name="add-circle-outline" size="large"></ion-icon>
        </div>
        <div className=' h-0.5 border-2 border-[#000000] my-6'></div>
