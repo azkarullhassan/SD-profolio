@@ -6,7 +6,7 @@ const Eight = () => {
     <main  className='mx-auto max-w-[80rem]'>
        <div className=' text-center pt-20'>
         <h1 className='font-medium text-[56px]'>My atmosphere</h1>
-        <h2 className='font-normal text-[18px] pt-3'>Lorem ipsum lksdfn adi  jj jsrhh ttt tttw lihdfwjdd  kc elit. In urna, <br /> non nisl tincidunt ut elementum turpis.</h2>
+        <h2 className='font-normal text-[18px] pt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, commodi quia! In urna, <br /> non nisl tincidunt ut elementum turpis.</h2>
         <h3 className='font-medium text-[32px] text-[#5D3BEE] underline pt-14'>@azkar ull hassan7</h3>
        </div>
 
